@@ -1,8 +1,12 @@
+/* CSS*/
 body {
-  margin: 0;
+  margin: 0cm;
 }
+
 .cover {
-  height: 400px;
+  heidht: 400px;
   background-image: url(https://cdn.glitch.me/d4e0c15c-4d02-463c-be15-ee93c81dae7d/priscilla-du-preez-dlxLGIy-2VU-unsplash.jpg?v=1640465268456);
-  color: white;
+  color: red;
+  background-size: cover;
+  background-position:center;
 }
