@@ -3,6 +3,6 @@ body {
 }
 .cover {
   height: 400px;
-  background-color: red;
+  background-image: url(https://cdn.glitch.me/d4e0c15c-4d02-463c-be15-ee93c81dae7d/priscilla-du-preez-dlxLGIy-2VU-unsplash.jpg?v=1640465268456);
   color: white;
 }
