@@ -3,6 +3,7 @@ body {
 }
 
 .cover {
-  height: 400px;
-  background-color:green;
+  height:400px;
+  background-color:red;
+  color:red;
 }
