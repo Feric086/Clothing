@@ -1,8 +1,10 @@
 body {
   margin: 1rem auto 0;
 }
-.cover 
 
+.container-fluid { height:400px;
+  background-color:red;
+}
 
 
 
