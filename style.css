@@ -2,22 +2,8 @@ body {
   margin: 1rem auto 0;
 }
 
-.container-fluid { height:400px;
-  background-color:red;
+.cover {
+  height: 400px;
+  background-color: red;
 }
 
-
-
-
-h2 {
-  color: #2800FF;
-}
-
-/* Interactive image */
-.illustration:active {
-  transform: translateY(5px);
-}
-
-.dipped {
-  transform: translateY(5px);
-}
