@@ -17,7 +17,20 @@ body {
     0 2px 4px -1px rbga(0, 0, 0, 0.06);
 }
 
-.stripe-container{
-  display:flex;
-  flex-direction:row;
+.card-title {
+  min-height: 3rem;
+}
+
+.card-text {
+  min-height: 10rem;
+}
+
+.stripe-container {
+  display: flex;
+}
+
+.stripe-container .card {
+  width: 300px;
+  flex-shrink: 0;
+  margin-right: 1rem;
 }
